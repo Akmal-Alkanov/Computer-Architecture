@@ -1,6 +1,6 @@
 ; Written by Akmal Alkanov
 ; This code is licensed under the license.
-; Copyright 2024 Akmal Alkanov	
+; Copyright 2024 Akmal Alkanov
 	AREA Count, CODE, READWRITE 
 	ENTRY
     LDR R6, =countOfVowels  ; address in R6
